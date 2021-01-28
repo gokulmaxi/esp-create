@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/iot/esp/espcreate/softAP/build/CMakeFiles/bootloader
+/home/iot/esp/espcreate/softAP/build/CMakeFiles/bootloader.rule
+/home/iot/esp/espcreate/softAP/build/CMakeFiles/bootloader-complete.rule
+/home/iot/esp/espcreate/softAP/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/iot/esp/espcreate/softAP/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/iot/esp/espcreate/softAP/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/iot/esp/espcreate/softAP/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/iot/esp/espcreate/softAP/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/iot/esp/espcreate/softAP/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/iot/esp/espcreate/softAP/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
