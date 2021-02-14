@@ -55,10 +55,10 @@ all linux systems is supported
 
 ```bash
 # Clone this project
-$ git clone https://github.com/gokulmaxi/espcreate
+$ git clone https://github.com/gokulmaxi/esp-create
 
 # Access
-$ cd espcreate
+$ cd esp-create
 
 # add the path to your linux system
 $ echo "export PATH=$PWD:\$PATH" >> ~/.bashrc
